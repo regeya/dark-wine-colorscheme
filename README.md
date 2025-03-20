@@ -2,7 +2,7 @@
 
 A dark colorscheme for vanilla Wine, inspired by Adwaita Dark.
 
-![Screenshot of OpenMPT running in GNOME](/images/screeeshot.png)
+![Screenshot of OpenMPT running in GNOME](/images/screenshot.png)
 
 A simple .reg file to change the colorscheme of Wine.  
 
