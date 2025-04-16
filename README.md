@@ -1,6 +1,6 @@
 # Dark WINE Colorscheme
 
-A dark colorscheme for vanilla Wine, inspired by Adwaita Dark.
+A dark colorscheme for vanilla Wine, inspired by Adwaita Dark.  The colorscheme rejected by r/unixporn as being "default".
 
 ![Screenshot of OpenMPT running in GNOME](/images/screenshot.png)
 
